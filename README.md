@@ -32,9 +32,9 @@ tqdm==4.66.4
 
 **2. Data Preparation**
 
-Download the MSRS dataset from [this link](https://github.com/Linfeng-Tang/MSRS) and place it in the folder ``'.data/MSRS_train/'``.
-Download the FMB dataset from [this link](https://github.com/JinyuanLiu-CV/SegMiF) and place it in the folder ``'.data/FMB_train/'``.
-Download the M3FD dataset from [this link](https://github.com/JinyuanLiu-CV/TarDAL) and place it in the folder ``'.data/M3FD_train/'``.
+Download the MSRS dataset from [this link](https://github.com/Linfeng-Tang/MSRS) and place it in the folder ``'.data/MSRS_train/'``.<br>
+Download the FMB dataset from [this link](https://github.com/JinyuanLiu-CV/SegMiF) and place it in the folder ``'.data/FMB_train/'``.<br>
+Download the M3FD dataset from [this link](https://github.com/JinyuanLiu-CV/TarDAL) and place it in the folder ``'.data/M3FD_train/'``.<br>
 Download the LLVIP dataset from [this link](https://github.com/bupt-ai-cz/LLVIP) and place it in the folder ``'.data/LLVIP_train/'``.
 
 
@@ -76,14 +76,14 @@ which can match the results in Table 1,2 in our original paper.
 
 ### Qualitative fusion results.
 
-#### MSRS%FMB Dataset Results
+#### MSRS & FMB Dataset Results
 <div align="center">
-    <img src="image/MSRS%FMB.png" width="100%" style="max-width: 1200px;" />
+    <img src="image/MSRS%26FMB.png" width="100%" style="max-width: 1200px;" />
 </div>
 
-#### M3FD$LLVIP Scene Results
+#### M3FD & LLVIP Scene Results
 <div align="center">
-    <img src="image/M3FD$LLVIP.png" width="100%" style="max-width: 1200px;" />
+    <img src="image/M3FD%26LLVIP.png" width="100%" style="max-width: 1200px;" />
 </div>
 
 ## 📝 Citation
