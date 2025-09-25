@@ -78,12 +78,12 @@ which can match the results in Table 1,2 in our original paper.
 
 #### MSRS & FMB Dataset Results
 <div align="center">
-    <img src="image/MSRS%26FMB.png" width="100%" style="max-width: 1200px;" />
+    <img src="image/MSRS&FMB.png" width="100%" style="max-width: 1200px;" />
 </div>
 
 #### M3FD & LLVIP Scene Results
 <div align="center">
-    <img src="image/M3FD%26LLVIP.png" width="100%" style="max-width: 1200px;" />
+    <img src="image/M3FD&LLVIP.png" width="100%" style="max-width: 1200px;" />
 </div>
 
 ## 📝 Citation
