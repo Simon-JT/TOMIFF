@@ -9,7 +9,6 @@ Conventional image-fusion methods largely rely on static perception-oriented los
 
 ### 🏊 Training
 **1. Virtual Environment**
-```
 - Python 3.7+
 - PyTorch 1.8.1
 - CUDA 11.1 (for GPU support)
@@ -40,10 +39,10 @@ Download the LLVIP dataset from [this link](https://github.com/bupt-ai-cz/LLVIP)
 
 **3. SFDFuse Training**
 
-Run 
-1.raining:
+Run:
+
 ```bash
-python train.py 
+python train.py
 ```
 
 ### 🏄 Testing
@@ -63,7 +62,6 @@ If you want to infer with our TOMIFF and obtain the fusion results in our paper,
 ```
 python test_fuse.py
 ``` 
-```
 which can match the results in Table 1,2 in our original paper.
 
 ## 🙌 TOMIFF
